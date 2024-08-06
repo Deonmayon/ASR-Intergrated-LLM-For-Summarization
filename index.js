@@ -1,6 +1,5 @@
 const speechToText = require('./speechToText');
 const summarizeText = require('./summarize');
-const summarize = require('./summarize');
 
 // Function to process audio, convert it to text, and summarize the text
 async function processAudio(filePath) {
